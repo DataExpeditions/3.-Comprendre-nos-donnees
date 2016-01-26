@@ -54,9 +54,7 @@ Navigo). Elles permettent de remonter les validations télébilletiques ;
 accéder au quai. Ils permettent de remonter les validations télébilletiques et magnétiques. On en trouve
 environ 3000 en Ile-de-France.
 
-Bornes et Composteur
-CAB G1
-CAB M1
+![Borne](https://raw.githubusercontent.com/DataExpeditions/3.-Comprendre-nos-donnees/master/images/image%231.png)
 
 *On différencie les CAB tripode ancienne génération (G1) des CAB M1 nouvelle génération (porte effaçable)*. En sus
 des données de validations, ces derniers permettent de détecter les passages et de compter les personnes qui
@@ -73,7 +71,7 @@ Tous les franchissements sont donc comptabilisés, en entrée / sortie contrôl�
 libres. Le *système de détection est composé de cellules émettrices et de capteurs de zone*, protégés par
 des bandeaux de plexiglas.
 
-CAB M1 
+![Borne2](https://raw.githubusercontent.com/DataExpeditions/3.-Comprendre-nos-donnees/master/images/image%232.png) 
 
 ##Quels sont les points d’incomplétude de ces données ?
 Il est utile de préciser que *de fortes lacunes peuvent exister dans ces données*. Tout d’abord, seul le STIF possède
@@ -99,7 +97,7 @@ perte des données. *Il n’est pas rare que les portillons (près des lignes de
 désaturer, pour les accès de maintenance, pour les poussettes…, ce qui permet à de nombreuses personnes de
 s’engouffrer sans valider.
 
-Portillon ouvert
+![Borne3](https://raw.githubusercontent.com/DataExpeditions/3.-Comprendre-nos-donnees/master/images/image%233.png) 
 
 Lorsque le flux de voyageurs est trop dense et que cela crée des phénomènes de saturation, il arrive que la gare
 décide d’ouvrir ses lignes de CAB (entrée sortie libres) afin de fluidifier le trafic. Les saturations sont constatées plus
