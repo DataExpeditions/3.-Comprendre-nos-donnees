@@ -5,8 +5,6 @@
 
 **Comment évaluer les flux des voyageurs en Île-de-France ? Et surtout, pourquoi faire ? L’enjeu est essentiel pour une gestion optimale des transports en commun de la région, et pour le devenir du territoire dans son ensemble. SNCF Transilien en prend la pleine mesure en initiant une réflexion au long cours sur les outils et procédés de mesure des flux.**
 
-## PARAGRAPHE 1
-
 SNCF Transilien dispose d’une multitude d’outils pour estimer les flux le plus précisément possible, déployés sur l’ensemble des gares du territoire : enquêtes de terrain, traces GSM, comptages automatiques ou manuels, mais aussi capteurs “innovants” tels que les caméras thermiques ou tapis de comptage, etc. Chacun de ces outil présente leurs avantages et inconvénients, souvent liés à des coûts non négligeables de mise en place. La seule méthode qui permette aujourd’hui de remonter des données de mobilité quotidiennement, sur l’ensemble des réseaux et grâce à du matériel existant repose sur les données dites de « validation », correspondant aux informations recueillies lorsqu’un voyageur valide son titre de transport. Malheureusement, celles-ci se révèlent encore imparfaites car souvent incomplètes... plaidant en faveur d’autres systèmes de remontée des données. Nous vous proposons ici focus sur ces précieuses ressources de la compréhension du territoire, et sur les procédures actuellement à l’étude pour mieux les mettre en valeur.
 
 ## QU’EST-CE QU’UNE DONNÉE DE VALIDATION ?
